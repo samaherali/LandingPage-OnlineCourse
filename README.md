@@ -11,8 +11,8 @@ In online marketing, a landing page, sometimes known as a "lead capture page", "
 
 # LandingPage Online Course Dependency
 
--FontAwsome 
--Bootstrap css
--JQuery
--Bootstrap js
+- FontAwsome 
+- Bootstrap css
+- JQuery
+- Bootstrap js
 
