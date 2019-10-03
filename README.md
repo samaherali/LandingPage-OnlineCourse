@@ -4,9 +4,9 @@ In online marketing, a landing page, sometimes known as a "lead capture page", "
 
 # How to install  
 
-1.Clone the repository from the github 
-2.cd to folder Landing Page Online Course and open index.html from browser
-3.Landing Page OnlineCourse can be viewed
+1. Clone the repository from the github 
+2. cd to folder Landing Page Online Course and open index.html from browser
+3. Landing Page OnlineCourse can be viewed
 
 
 # LandingPage Online Course Dependency
